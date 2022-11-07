@@ -1,0 +1,14 @@
+organocatalyst,time(h),yield(%)
+ClC1=CC=C(C(O)=O)C(O)=C1,24,81
+ClC1=CC=C(C(O)=O)C(O)=C1,12,14
+OC1=CC(C)=CC=C1C(O)=O,24,74
+OC1=CC(C)=CC=C1C(O)=O,12,15
+OC1=CC(OC)=CC=C1C(O)=O,24,90
+OC1=CC(OC)=CC=C1C(O)=O,12,81
+OC1=CC(OC)=CC=C1C(O)=O,8,43
+COC1=CC(OC)=C(C(O)=O)C(O)=C1,12,88
+COC1=CC(OC)=C(C(O)=O)C(O)=C1,6,95
+COC1=CC(OC)=C(C(O)=O)C(O)=C1,2,65
+CC(/N=N/C(C)(C#N)C)(C#N)C,6,33
+O=C1C(C(C)(C)C)=CC(C(O)=C1)=O,6,93
+O=C1C(C=C(O)C(C(C)(C)C)=C1)=O,6,84
