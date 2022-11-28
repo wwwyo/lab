@@ -1,4 +1,4 @@
-entry,R1-,R2,organocatalyst,organocatalyst(mol%),solvent,under,temp(℃),time(h),Cu(OAc)2(mol%),AcOH(mol%),収率(%)
+entry,R1-,R2,organocatalyst,organocatalyst(mol%),solvent,under,temp(℃),time(h),Cu(OAc)2(mol%),AcOH(mol%),yield
 1,[*]C1=CC=CC=C1,H,ClC1=CC=C(C(O)=O)C(O)=C1,5,toluene,O2,90,24,0,0,81
 2,[*]C1=CC=CC=C1,H,ClC1=CC=C(C(O)=O)C(O)=C1,5,toluene,O2,90,12,0,0,14
 3,[*]C1=CC=CC=C1,H,OC1=CC(C)=CC=C1C(O)=O,5,toluene,O2,90,24,0,0,74

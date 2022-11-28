@@ -1,4 +1,4 @@
-,entry,R1-,organocatalyst,organocatalyst(mol%),temp(℃),time(h),収率(%),R2_C,R2_H,under_O2,under_air,solvent_CH3CN,solvent_DMF,solvent_MeCN,solvent_MeOH,solvent_toluene
+,entry,R1-,organocatalyst,organocatalyst(mol%),temp(℃),time(h),yield,R2_C,R2_H,under_O2,under_air,solvent_CH3CN,solvent_DMF,solvent_MeCN,solvent_MeOH,solvent_toluene
 0,1,[*]C1=CC=CC=C1,ClC1=CC=C(C(O)=O)C(O)=C1,5.0,90,24.0,81.0,0,1,1,0,0,0,0,0,1
 1,2,[*]C1=CC=CC=C1,ClC1=CC=C(C(O)=O)C(O)=C1,5.0,90,12.0,14.0,0,1,1,0,0,0,0,0,1
 2,3,[*]C1=CC=CC=C1,OC1=CC(C)=CC=C1C(O)=O,5.0,90,24.0,74.0,0,1,1,0,0,0,0,0,1
